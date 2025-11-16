@@ -4,6 +4,6 @@
     { "item" : "cottonwool", "count" : 1 }
   ],
   "duration" : 5,
-  "output" : { "item" : "humantier2head", "count" : 1 },
+  "output" : {},
   "groups" : [ "craftinganvil", "armours", "all" ]
 }
